@@ -22,5 +22,15 @@
 
 3. Explicación o Resolución de Ejercicios o Problemas 
 
+[---------------Capítulo 9---------------]
 
+2. Evalúe cada determinante:
+![image](https://user-images.githubusercontent.com/104913700/208821321-a45f0731-d8c8-4229-be3a-722f2d10a6b3.png)
+
+4. Evalúe cada uno de los determinantes:
+![image](https://user-images.githubusercontent.com/104913700/208821373-d3fbc621-ad2b-44b2-a7a7-15f3b79747bb.png)
+
+6. Determine I3 en el ejemplo 9-4
+![image](https://user-images.githubusercontent.com/104913700/208821423-80dee49d-1c51-47a8-b5b6-18942842dc3e.png)
+8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
 
