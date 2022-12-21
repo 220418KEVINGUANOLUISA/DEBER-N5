@@ -9,6 +9,7 @@
 *Emplear nuevos conceptos en la resolución de ejercicios.
 
 2.Marco Teórico
+
 ![image](https://user-images.githubusercontent.com/104913700/208817216-e0359be3-cf52-411c-a282-9cb3aeaf97c3.png)
 ![image](https://user-images.githubusercontent.com/104913700/208817234-8a88e0f0-e736-45db-8d3f-5a9c7c0334de.png)
 ![image](https://user-images.githubusercontent.com/104913700/208817260-fa2eb823-a92c-4f65-9f5a-8c040090bcd5.png)
