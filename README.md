@@ -74,6 +74,113 @@ es la corriente que circula a través de él?
 ![image](https://user-images.githubusercontent.com/104913700/208821976-5fe01812-4b08-40e6-bd3e-2b737c082b2d.png)
 ![image](https://user-images.githubusercontent.com/104913700/208821993-3c0056c8-afd6-42f5-9b2f-48f1953fe833.png)
 
+26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A
+con respecto a tierra.
+
+![image](https://user-images.githubusercontent.com/104913700/208822104-2f537c47-5b94-4705-a0d8-6c5ade771380.png)
+
+28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los
+voltajes de nodo.
+
+![image](https://user-images.githubusercontent.com/104913700/208822134-19953b2a-4722-41fe-90c4-43424ec5e9d2.png)
+
+30. Determine el voltaje en los puntos A, B y C en la figura 9-34
+
+![image](https://user-images.githubusercontent.com/104913700/208822179-c0748ecb-00b6-47a9-9dce-97df2d9dcf06.png)
+![image](https://user-images.githubusercontent.com/104913700/208822210-e7735b2e-555e-4199-81c8-d938e3a6dcb9.png)
+
+[---------------Capítulo 10---------------]
+
+2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb.
+¿Cuál es la densidad de flujo?
+
+![image](https://user-images.githubusercontent.com/104913700/208822477-c3d40115-9b71-49ef-9844-75fb17ac3f8c.png)
+
+4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de
+flujo en teslas
+
+![image](https://user-images.githubusercontent.com/104913700/208822505-36d1e89a-222e-4b49-805b-222265f5f95e.png)
+
+6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
+
+![image](https://user-images.githubusercontent.com/104913700/208822548-37a6cfe8-32f2-41a8-aec4-2495f3938b65.png)
+
+8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m2 si la permeabilidad absoluta es de 150 * 10-7 Wb/At. m.
+
+![image](https://user-images.githubusercontent.com/104913700/208822579-7df25561-66f3-4910-8abd-2b50af7d846f.png)
+
+10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
+
+![image](https://user-images.githubusercontent.com/104913700/208822608-ebe6bee1-3a80-42cf-b196-c167efb7cfc5.png)
+
+12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando
+el interruptor 1 (SW1) se cierra.
+
+![image](https://user-images.githubusercontent.com/104913700/208822696-0703f1ac-2a1b-4722-8289-55710d1cce23.png)
+![image](https://user-images.githubusercontent.com/104913700/208822750-098b9ea5-5dc2-446d-808a-f608b2507e74.png)
+
+14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0?2 m?
+
+![image](https://user-images.githubusercontent.com/104913700/208822854-c7f7caae-eaa7-4005-9e98-0c0f6c1b6ccf.png)
+
+16. En la figura 10-44, hay 500 vueltas. Determine
+(a) H   (b)    (c) B
+
+![image](https://user-images.githubusercontent.com/104913700/208822892-bbfad375-334f-4caa-b0cf-86e89c499004.png)
+
+18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de
+cambio del flujo magnético se duplica?
+
+![image](https://user-images.githubusercontent.com/104913700/208822915-dfd55fbe-9a29-4df1-9b98-23c537942959.png)
+
+20. Un campo magnético cambia a razón de 3500 3 1023 Wb/s. ¿Cuánto voltaje se induce en una bobina
+de 500 vueltas colocada en el campo magnético?
+
+![image](https://user-images.githubusercontent.com/104913700/208822949-e350f576-51d1-44d3-b741-4b6bac26b2bb.png)
+
+22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
+
+![image](https://user-images.githubusercontent.com/104913700/208823004-11777637-bfc3-4979-b1c0-fa03420b4638.png)
+![image](https://user-images.githubusercontent.com/104913700/208823019-90ad460f-1cdf-4f5a-9b07-cb4e28f71d06.png)
+
+24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje
+de cd de salida a su pico (alcanza un máximo)?
+
+![image](https://user-images.githubusercontent.com/104913700/208823063-48e5d235-712f-4c16-9894-b42b249a21e8.png)
+
+4. Video.
+
+5. Conclusiones.
+
+Podemos concluir que, con la resolución del trabajo, utilizamos nuevos métodos como son de magnetismo, electromagnetismo y sus inducciones; comprendiendo nuevos métodos de resolución de circuitos junto a la interpretación de diagramas esquemáticos.
+
+6. Bibliografía.
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos (8.a ed.). Pearso.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
