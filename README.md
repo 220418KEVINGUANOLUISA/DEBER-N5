@@ -160,6 +160,7 @@ Podemos concluir que, con la resolución del trabajo, utilizamos nuevos métodos
 
 Floyd, T. L. (2007). Principios de circuitos eléctricos (8.a ed.). Pearso.
 
+El_estudiante. (2019, 8 mayo). ANÁLISIS DE NODOS 📚 Pasos para CALCULAR VOLTAJE de CIRCUITOS ELÉCTRICOS usando Leyes de Kirchhoff [Vídeo]. YouTube. https://www.youtube.com/watch?v=rshQaTLyiQE
 
 
 
