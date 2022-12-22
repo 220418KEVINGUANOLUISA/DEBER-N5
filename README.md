@@ -150,6 +150,8 @@ de cd de salida a su pico (alcanza un máximo)?
 
 4. Video.
 
+https://youtu.be/S_FLM9Lk-64
+
 5. Conclusiones.
 
 Podemos concluir que, con la resolución del trabajo, utilizamos nuevos métodos como son de magnetismo, electromagnetismo y sus inducciones; comprendiendo nuevos métodos de resolución de circuitos junto a la interpretación de diagramas esquemáticos.
